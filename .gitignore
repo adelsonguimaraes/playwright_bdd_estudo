@@ -1,0 +1,15 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+
+# Ignorar pytest cache
+pytest_cache/
+
+# Ignorar o ambiente virtual
+venv/
+.env/
+.venv/
+
+# Outros arquivos relacionados a Python
+*.pyc
+*.pyo
+*.pyd
